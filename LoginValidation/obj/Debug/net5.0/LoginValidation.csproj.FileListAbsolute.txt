@@ -1,0 +1,16 @@
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.exe
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.deps.json
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.runtimeconfig.json
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.runtimeconfig.dev.json
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.dll
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\bin\Debug\net5.0\ref\LoginValidation.dll
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\bin\Debug\net5.0\LoginValidation.pdb
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.csproj.AssemblyReference.cache
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.AssemblyInfoInputs.cache
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.AssemblyInfo.cs
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.dll
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\ref\LoginValidation.dll
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.pdb
+C:\Users\Aleksander\source\repos\MoreLoops\LoginValidation\obj\Debug\net5.0\LoginValidation.genruntimeconfig.cache
